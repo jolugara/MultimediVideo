@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="94dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="96dp"
+        android:text="PTAZETA || BZRP Music Sessions #1"
+        app:layout_constraintBottom_toTopOf="@+id/imageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="303dp"
+        android:layout_height="182dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginTop="484dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="101dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="303dp"
+        android:layout_height="99dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginTop="284dp"
+        android:layout_marginEnd="64dp"
+        app:layout_constraintBottom_toTopOf="@+id/videoView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ouh_ah_ah_ah_ah_hey_prr_esa_t_a_es_la_m_chula_no_tiene_un_piquete_lo_que_ella_tiene_es_un_buen_piquet_n_y_no_hay_tiguer_n_pa_esa_nena_salvaje_que_se_le_compare_con_ese_cul_n_encima_rebota_me_bota_mi_blunt_ma_lo_que_quiero_es_que_mueva_el_chap_n_que_baje_de_espaldas_reboten_tus_nalgas_me_trepes_de_encima_con_ese_cul_n_flow_criminal_esa_t_a_parece_de_pel_cula_al_party_va_resuelta_con_la_kritical_cri_cri_criminal_ese_culo_es_pa_darle_matr_cula_muerdo_y_le_tat_o_la_mand_bula_cri_cri_criminal_criminal_s_bele_la_nota_al_contrabajo_pa_esa_pretty_gyal_cri_cri_criminal_criminal_lo_mueve_hasta_abajo_y_ya_la_cosa_se_va_cr_tica_hey_y_entonces_se_me_sube_encima_ese_piquete_p_n_p_nmela_hasta_arriba_que_va_a_mil_como_bettel_el_pom_pom_hasta_abajo_vamo_a_reventar_el_cassette_hey_si_no_hay_perreo_no_se_mete_quiere_quiere_quiere_duro_la_llevo_pa_lo_oscuro_est_caliente_y_al_dente_la_desayuno_esa_lady_es_como_flash_a_gas_va_duro_da_vueltas_de_campanas_como_un_cintur_n_de_judo_por_eso_ma_creo_que_voy_a_enfermar_es_que_no_s_lo_que_me_da_cuando_te_veo_pasar_se_me_nubla_la_vista_y_me_cuesta_hasta_respirar_cuando_te_veo_en_la_pista_pai_me_tienen_que_sacar_c_mo_se_luce_cuando_te_veo_en_la_pista_pai_me_tienen_que_sacar_c_mo_se_luce_me_vine_pa_argentina_el_biza_me_mand_a_llamar_flow_criminal_esa_t_a_parece_de_pel_cula_al_party_va_resuelta_con_la_kritical_cri_cri_criminal_ese_culo_es_pa_darle_matr_cula_muerdo_y_le_tat_o_la_mand_bula_cri_cri_criminal_criminal_s_bele_la_nota_al_contrabajo_pa_esa_pretty_gyal_cri_cri_criminal_criminal_lo_mueve_hasta_abajo_y_ya_la_cosa_se_va_cr_tica_hey_en_pata_hoy_quiero_a_to_a_las_gata_subi_ndole_la_nota_como_afrika_bambaataa_pa_pa_pata_hoy_quiero_a_to_a_las_gata_meneando_la_colita_pa_que_vean_de_qu_se_trata_dale_dale_dale_zoom_que_est_s_re_buena_le_vine_a_dejar_marca_como_un_tatuaje_de_henna_esa_nena_pide_mmm_ella_es_mi_cena_y_yo_le_voy_a_dar_pum_pum_pum_pum_pa_fuera_con_la_sala_llena_de_humo_beb_con_bat_n_como_es_sube_la_nota_arriba_de_un_pat_n_duracell_y_t_dama_est_s_tan_dura_que_yo_pierdo_la_cordura_y_si_viene_con_tu_amiga_pues_le_damo_a_la_tre_c_mo_se_luce_tre_tre_tre_tre_tre_tre_tre_tre_tre_tre_tre_tre_que_le_damo_a_la_tre_c_mo_se_luce_tre_tre_tre_tre_tre_tre_tre_tre_tre_tre_tre_tre_que_le_damo_a_la_flow_criminal_esa_t_a_parece_de_pel_cula_al_party_va_resuelta_con_la_kritical_cri_cri_criminal_ese_culo_es_pa_darle_matr_cula_muerdo_y_le_tat_o_la_mand_bula_cri_cri_criminal_criminal_s_bele_la_nota_al_contrabajo_pa_esa_pretty_gyal_cri_cri_criminal_criminal_lo_mueve_hasta_abajo_y_ya_la_cosa_se_va_cr_tica_hey_ah_c_mo_se_luce_con_ptazeta_en_la_casa_loca_oye_bi_biza_c_mo_se_luce_de_canarias_a_argentina_che_bizarrap" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="249dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="60dp"
+        android:contentDescription="@string/todo"
+        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/maxresdefault" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="152dp"
+        android:layout_marginTop="700dp"
+        android:layout_marginEnd="155dp"
+        android:layout_marginBottom="19dp"
+        android:text="Siguiente"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
